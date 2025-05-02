@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**maitri-dalvi/maitri-dalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me :)
+```javascript
+const maitri = {
+  pronouns: ["she" | "her"],
+  technicalSkills: {
+    programmingLanguages: ["TypeScript", "JavaScript", "Python", " C/C++", "Java"],
+    frameworksAndTools: ["Next.js", "React", "Node.js", "Express.js", "Figma", "Postman"],
+    devOpsAndDatabases: ["Docker", "PostgreSQL", "MongoDB", "Firebase"],
+  },
+  interests: [
+    "Travelling", 
+    "Networking",
+  ],
+};
+```
