@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little about me...
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> A little about me...
 
 ```python
 class About:
@@ -11,13 +11,6 @@ class About:
 
 me = About()
 ```
-
-### 📫 Let's Connect!
-
-<p>
-  <a href="mailto:maitridalvi2004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
 
 
 ### 🛠️ Tech Stack
@@ -44,5 +37,9 @@ me = About()
 
 
 
+### 📫 Let's Connect!
 
-
+<p>
+  <a href="mailto:maitridalvi2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
