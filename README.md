@@ -1,4 +1,5 @@
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little about me...
+### <img src="https://media.giphy.com/media/RfSEtAibkFAGiVVYX0/giphy.gif?cid=ecf05e471b45wcbngxvy8qyevuwq2zur5k7mctj8d4dteuut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> A little about me...
+
 
 ```python
 class About:
@@ -13,8 +14,7 @@ me = About()
 ```
 
 
-### 🛠️ Tech Stack
-
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack: 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +42,7 @@ me = About()
 
 
 
-### 📫 Contact
+### <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle"> Contact:
 
 <p>
   <a href="mailto:maitridalvi2004@gmail.com">
