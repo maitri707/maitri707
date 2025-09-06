@@ -37,7 +37,7 @@ me = About()
 
 
 
-### 📫 Let's Connect!
+### 📫 Reach Me Here
 
 <p>
   <a href="mailto:maitridalvi2004@gmail.com">
