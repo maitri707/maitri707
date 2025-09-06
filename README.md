@@ -3,7 +3,7 @@
 ```python
 class About:
     def __init__(self):
-        self.name = "Maitri Dalvi"
+        self.name = "Maitri"
         self.pronouns = "she/her"
         self.role = "Software Developer"
         self.location = "India 🇮🇳"
@@ -37,7 +37,8 @@ me = About()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9F9F9F?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
