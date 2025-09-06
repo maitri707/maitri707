@@ -42,9 +42,10 @@ me = About()
 
 
 
-## <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absbottom"> Contact:
+## 📬 Contact:
 
 <p>
   <a href="mailto:maitridalvi2004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
+</p>
