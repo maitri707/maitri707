@@ -6,18 +6,13 @@ class About:
     def __init__(self):
         self.name = "Maitri"
         self.pronouns = "she/her"
-        self.role = "Software Developer"
+        self.role = "Software & AI Developer"
         self.location = "India 🇮🇳"
+        self.achievements = "🏆 5× Hackathon Winner"
         self.interests = ["🧩 Problem Solving" ,"🌐 Networking"]
-
+        
 me = About()
+
 ```
 
 
-## 📬 Contact:
-
-<p>
-  <a href="mailto:maitridalvi2004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
